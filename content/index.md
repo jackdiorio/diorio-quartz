@@ -74,7 +74,7 @@ Improving upon and assessing speaker privacy guarantees using differential priva
 ### Public Speaking
 
 **TEDxUVM**, "The Science of Sustainability", TED Conferences LLC (Jan. 2026)
-[Watch on YouTube](https://www.youtube.com/watch?v=yozCE3uEHFA&t=86s)
+[Watch on YouTube](https://www.youtube.com/watch?v=yozCE3uEHFA&t=0s)
 
 **Guest Lecture**, Modeling Complex Systems I, University of Vermont (Oct. 2026)
 
