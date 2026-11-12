@@ -1,3 +1,30 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.content-meta::before {
+  content: "Last updated: ";
+}
+
+footer p::after {
+  content: " · Written by Jack D'Iorio · Hosted on GitHub Pages";
+}
+
+// Tighten the footer now that it has no link row.
+footer {
+  text-align: center;   // center the footer text under the rule
+  
+  // Hide the empty list of links so it stops taking up space.
+  ul {
+    display: none;
+  }
+
+  // Pull the text closer to the horizontal rule above it.
+  p {
+    margin-top: -1rem;   // raise for more space, lower for less
+  }
+
+  // Also trim the space under the rule itself.
+  hr {
+    margin-bottom: 0;
+  }
+}
