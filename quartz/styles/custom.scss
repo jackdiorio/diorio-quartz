@@ -1,6 +1,11 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Hide the little link icon that appears next to headings on hover.
+// Quartz adds it as an <a role="anchor"> at the end of each heading.
+a[role="anchor"] {
+  display: none;
+}
+
 .content-meta::before {
   content: "Last updated: ";
 }

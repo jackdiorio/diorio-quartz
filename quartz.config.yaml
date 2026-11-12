@@ -27,7 +27,7 @@ configuration:
         darkgray: "#d5c4a1"
         dark: "#ebdbb2"
         secondary: "#83a598"
-        tertiary: "#8ec07c"
+        tertiary: "#d65d0e"
         highlight: rgba(131, 165, 152, 0.15)
         textHighlight: "#abd2f66"
       darkMode:
@@ -146,7 +146,7 @@ plugins:
   - source: "@quartz-community/folder-page"
     enabled: true
   - source: "@quartz-community/tag-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/explorer"
     enabled: true
     layout:
@@ -157,6 +157,12 @@ plugins:
     layout:
       position: right
       priority: 10
+    options:
+      localGraph:
+        depth: -1
+        showTags: false
+      globalGraph:
+        showTags: false
   - source: "@quartz-community/search"
     enabled: true
     layout:

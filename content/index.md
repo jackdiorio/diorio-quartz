@@ -11,10 +11,10 @@ title: Homepage
   />
 
   <div style="flex: 1; min-width: 250px;">
-    <h1 style="margin: 0 0 0.25rem 0; font-size: 2.8rem">Jack D'Iorio</h1>
+    <h1 style="display: inline-block; margin: 0 0 0.75rem 0; font-size: 2.8rem; padding-bottom: 0.2rem; border-bottom: 4px solid #d65d0e;">Jack D'Iorio</h1>
     <p style="margin: 0 0 0.75rem 0; font-size: 1.2rem;">
       M.S. student in Complex Systems & Data Science<br />
-      <i>University of Vermont <br /> Burlington, VT</i>
+      <i><span style="color: #928374;">University of Vermont <br /> Burlington, VT</span></i>
     </p>
     <p style="margin: 0;">
       <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AN_4Zu_K0MV_gbqpEEnzMb2XEzXCiyGd05WIvNCt34im6YJ8hs7G-IoQcW5_pghne60RNUIwK0O33lyVbNSgAlM8cPDO&user=-GgokRwAAAAJ">Google Scholar</a> <br/>
