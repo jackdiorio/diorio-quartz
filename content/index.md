@@ -36,7 +36,7 @@ I finished my B.S. in Computer Science at UVM in 2026, and I'm now a GTA for "Mo
 On a more personal note, I enjoy being outdoors (especially when sailing or skiing), playing music, and collective story telling with my friends.
 
 # Explore
-Use the 'Explorer' in the left column or the 'Graph View' on the right to navigate my site content. <br/>
+Use the 'Explorer' or 'Graph View' modules to navigate my site content. <br/>
 Here is a quick list of useful links:
 
 - <a href="/static/Diorio_cv2026.pdf" target="_blank">Curriculum vitae (PDF)</a> <br/>
