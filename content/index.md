@@ -41,8 +41,7 @@ Here is a quick list of useful links:
 
 - <a href="/static/Diorio_cv2026.pdf" target="_blank">Curriculum vitae (PDF)</a> <br/>
 - [[research|Research]]: projects and ongoing work
-- [[teaching|Teaching]]: academic appointments
-- [[talks|Talks]]: public speaking and guest lectures
+- [[teaching|Teaching]]: lectures and academic appointments
 - [[personal|Personal]]: fun posts about my personal life
 
 # Contact
